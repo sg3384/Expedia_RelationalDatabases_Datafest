@@ -6,6 +6,9 @@ These are just 4 of the 7 total visualisations we presented from my data visuali
 - Utilized algorithms I knew and Heuristic Algorithms
 - Created more than 50 data viz using R
 
+### Skills utlized by Shreya
+R, Powerpoint, Design, Heuristic Algorithms, Geospacial mapping
+
 
 
 
